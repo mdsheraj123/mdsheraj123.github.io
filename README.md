@@ -11,9 +11,7 @@ Disclaimer: Views are personal and do not represent any entity other than my pri
 
 
 To test locally, run  
-`jekyll serve`  
-or  
-`jekyll serve --drafts`  
+`jekyll serve`   
 
 the site will be on 
 http://localhost:4000/ 
