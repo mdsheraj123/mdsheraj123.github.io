@@ -37,7 +37,7 @@ You can have the best company but not be able to scale globally if you are headq
 
 I have tried to track what really gives value for the work of a common man doing regular jobs like carpenter or postman and I have come to the conclusion that in the final analysis, the valuation of money is ultimately determined by politics. The effect is really strong and often extremely understated. The world is not a fair playground.
 
-Politics decides that the services of a postman in India is worth 1/50th that of someone in the USA for doing exactly the same job.
+Politics decides that the services of a postman in India is worth 1/50th that of someone in the USA for doing exactly the same job. The man in USA can be poor, and live on food stamps, but when he eats one loaf of bread, we in India see him as eating 50 loafs of the same bread in India. But he is poor and can afford only one loaf of bread, but we are actually not and can eat any number of loafs of bread.
 
 Politics decides that the company in India will not be able to scale globally but when the same company is headquartered in the USA it will suddenly be a Unicorn.
 
