@@ -23,6 +23,7 @@ Even in a non democracy there are police and courts for personal issues. It seem
 
 It is also true that due to hedonism and short term thinking, many of us do not know what is best for us.
 
+One solution in favor of democracy is just don't watch the news and media and don't participate in voting. But this can end up very negative if done in groups when other groups vote heavily. Wrong decisions in a democracy often face less criticism and have an aura of authenticity but it is not justified as seen in the violence against Rohingya muslims in Myanmar after Myanmar became a democracy leading it to become a military dictatorship again.
 
 
 
