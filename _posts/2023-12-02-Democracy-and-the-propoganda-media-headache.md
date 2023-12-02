@@ -27,3 +27,11 @@ One solution in favor of democracy is just don't watch the news and media and do
 
 
 
+Update: 
+
+Q) Democracy is not stupid: Democracy is a system of government that allows people to have a say in the decisions that affect their lives. Democracy promotes human rights, freedom, equality, justice, and accountability. Democracy is not perfect, but it is better than dictatorship, where people have no voice or choice.
+
+A) Really? Do I really have a say in the decisions that affect my life? It is very easy for democracy to become the tyranny of the majority. What do I do then with my one vote? If I resist and campaign a lot I can be put in jail under various laws preventing dissent in democracies.
+
+My point is not to give the western idea of democracies a free reign and criticize other governments unfairly rather than objectively.
+
