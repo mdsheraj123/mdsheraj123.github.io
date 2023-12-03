@@ -32,6 +32,9 @@ Update:
 Q) Democracy is not stupid: Democracy is a system of government that allows people to have a say in the decisions that affect their lives. Democracy promotes human rights, freedom, equality, justice, and accountability. Democracy is not perfect, but it is better than dictatorship, where people have no voice or choice.
 
 A) Really? Do I really have a say in the decisions that affect my life? It is very easy for democracy to become a tyranny of the majority. What do I do then with my one vote? If I resist and campaign a lot I can be put in jail under various laws preventing dissent in democracies. Also, it is a lie that in a dictatorship people have no voice or choice as mentioned above. Just like a democracy there is executive and Judiciary, also people can talk to the leaders to solve their issues. If nothing else, like democracies, there is the option to protest.
+European countries give citizenship to immigrants against the wishes of their citizens while Arab dictatorships do not. It is amazing that dictatorships listen more to their citizens on the contrary to popular portrayal.
+
+
 
 My point is not to give the western idea of democracies a free reign and criticize other governments unfairly rather than objectively.
 
