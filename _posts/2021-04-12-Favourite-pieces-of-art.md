@@ -213,47 +213,32 @@ Or the faceted crystal.
 *A poem on growing old. [There will be a time when we are no longer potential](https://qr.ae/pGBbpy).*
 ## The Man He Killed
 
-"Had he and I but met
+Had he and I but met\
+By some old ancient inn,\
+We should have sat us down to wet\
+Right many a nipperkin!
 
-            By some old ancient inn,
+But ranged as infantry,\
+And staring face to face,\
+I shot at him as he at me,\
+And killed him in his place.
 
-We should have sat us down to wet
+I shot him dead because —\
+Because he was my foe,\
+Just so: my foe of course he was;\
+That's clear enough; although
 
-            Right many a nipperkin\!
+He thought he'd 'list, perhaps,\
+Off-hand like — just as I —\
+Was out of work — had sold his traps —\
+No other reason why.
 
-            "But ranged as infantry,
+Yes; quaint and curious war is!\
+You shoot a fellow down\
+You'd treat if met where any bar is,\
+Or help to half-a-crown.
 
-            And staring face to face,
-
-I shot at him as he at me,
-
-            And killed him in his place.
-
-            "I shot him dead because —
-
-            Because he was my foe,
-
-Just so: my foe of course he was;
-
-            That's clear enough; although
-
-            "He thought he'd 'list, perhaps,
-
-            Off\-hand like — just as I —
-
-Was out of work — had sold his traps —
-
-            No other reason why.
-
-            "Yes; quaint and curious war is\!
-
-            You shoot a fellow down
-
-You'd treat if met where any bar is,
-
-            Or help to half\-a\-crown."
-
-\- By Thomas Hardy
+- By Thomas Hardy
 *Anti war poem.*
 
 
