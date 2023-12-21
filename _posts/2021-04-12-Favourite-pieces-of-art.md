@@ -35,6 +35,11 @@ Thor: Because that's what heroes do."
 \- From Thor: Ragnarok \(2017\)
 
 \(Thor's line alone gives you goosebumps when you realize the depth of it. We all realize the significance of the hero's journey and how it relates to our own life's many journeys. Thor's quote is contemplative at least and inspiring at best.\)
+
+*"No one is more hated than he who speaks the truth."*
+
+\- Plato
+
 *“To be wealthy and honored in an unjust society is a disgrace."*
 
 \- Confucius
