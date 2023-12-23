@@ -15,7 +15,7 @@ The most effective and popular propaganda is not lies, but showing only one side
 Democracy requires everyone to be aware of all the issues affecting the country in addition to our personal affairs for questionable benefit. As everyone cannot do the research from scratch, they resort to the media. Propaganda can easily sway the whole country.
 
 This shows how stupid Democracy is and being in stable rules is so much more peaceful if there is tolerance. We keep watching all the propaganda news and being informed all the time while doing a bad job at it like sheeps.
-It's better to just focus on our work and making the life of the people around us good.
+It's better to just focus on our work and in making the life of the people around us good.
 
 When there is a stable rules based government then ordinary people can relax and not indulge in politics. There is no need for crowdsourcing decisions, while it can be done occasionally via protests.
 
@@ -25,9 +25,17 @@ It is also true that due to hedonism and short term thinking, many of us do not 
 
 One solution in favor of democracy is just don't watch the news and media and don't participate in voting. But this can end up very negative if done in groups when other groups vote heavily. Wrong decisions in a democracy often face less criticism and have an aura of authenticity but it is not justified as seen in the violence against Rohingya muslims in Myanmar after Myanmar became a democracy leading it to become a military dictatorship again.
 
+I want to rethink the foundations of democracy laid out by thinkers in medieval Europe. Like the thinkers in Russia who thought up Communism as the solution to the problem of human societies, they can be wrong. The ideas should not be considered beyond questioning.
+
+Voting for our leaders regularly is the foundational idea of democracy. If this idea is so good, then what if companies have voting for the managers. Lol, nobody would work and the company would collapse. We have a mild version of this where the unions are elected and have _some_ powers but even that makes the organizations inefficient and leading to its slow death.
+
+People can't and don't know everything as they cannot dedicate their life to it and are easily swayed which is very dangerous.
 
 
 Update: 
+
+
+
 
 Q) Democracy is not stupid: Democracy is a system of government that allows people to have a say in the decisions that affect their lives. Democracy promotes human rights, freedom, equality, justice, and accountability. Democracy is not perfect, but it is better than dictatorship, where people have no voice or choice.
 
@@ -37,4 +45,5 @@ European countries give citizenship to immigrants against the wishes of their ci
 
 
 My point is not to give the western idea of democracies a free reign and criticize other governments unfairly rather than objectively.
+
 
