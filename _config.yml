@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Trying Rationally This Time
-description:
-  A personal blog on diverse topics from someone not afraid to dive deep and get technical.<br />
+description: |
+  A personal blog on diverse topics from someone not afraid to dive deep and get technical.
   Disclaimer is in the About section.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mdsheraj123.blogspot.com/" # the base hostname & protocol for your site, e.g. http://example.com
