@@ -91,7 +91,12 @@ It's just like propoganda, focussing on only the side which you favour's point o
 
 \- Me
 
-\([https://worldpopulationreview.com/country\-rankings/most\-racist\-countries](https://worldpopulationreview.com/country-rankings/most-racist-countries) shows us that India is the most racist country in the world.\)
+\([https://worldpopulationreview.com/country\-rankings/most\-racist\-countries](https://worldpopulationreview.com/country-rankings/most-racist-countries) shows us that India is the most racist country in the world. Although I now feel that we all are equally racist, only some people are better at hiding it than others.\)
+
+*“Before you embark on a journey of revenge, dig two graves.”*
+
+\- The Chinese philosopher, Confucius.
+
 # Favourite Poems
 ## Truth
 
