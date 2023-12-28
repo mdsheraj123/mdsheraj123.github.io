@@ -48,3 +48,5 @@ My point is not to give the western idea of democracies a free reign and critici
 
 I have also realized that other people cannot represent for another group of people. Only the people of the topic themselves can. Otherwise it will never be absolute and satisfactory. It might be unavoidable sometimes but it's never ideal. The most extreme example of this would be blackface employed by white people to represent blacks.
 
+This also means that there is no such thing as a biased media. It is just watching the media of only one side. To remove bias, we have to see the viewpoint of the other side, the best would be to physically go and talk to those people. The thought is fantastic that we can remove our bias just by thinking about it and then go on to represent other people.
+
