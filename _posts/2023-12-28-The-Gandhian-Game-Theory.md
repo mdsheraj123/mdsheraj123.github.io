@@ -25,12 +25,52 @@ I do not know how effective it was, but the fact that it worked somehow is magic
 Veritasium says at the end, be nice, forgiving, and don’t be a pushover.
 Well in the real world, there are other strategies I have observed as rare but non extinct.
 
-| nice | forgiving | no-pushover | Person type |
-|----------|----------|----------|----------|
-| y | y | y | Veritasium |
-| n | y | y | The Bad Boy Alpha Male |
-| y | n | y | The Vengeance |
-| y | y | n | The Gandhian |
+
+<style>
+th, td {
+  background-color: black;
+}
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>nice</th>
+      <th>forgiving</th>
+      <th>no-pushover</th>
+      <th>Person type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>y</td>
+      <td>y</td>
+      <td>y</td>
+      <td>Veritasium</td>
+    </tr>
+    <tr>
+      <td>n</td>
+      <td>y</td>
+      <td>y</td>
+      <td>The Bad Boy Alpha Male</td>
+    </tr>
+    <tr>
+      <td>y</td>
+      <td>n</td>
+      <td>y</td>
+      <td>The Vengeance</td>
+    </tr>
+    <tr>
+      <td>y</td>
+      <td>y</td>
+      <td>n</td>
+      <td>The Gandhian</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 
 Actually, the world is much more complicated than this game but it is interesting and something we can learn from to try and understand the world better.
