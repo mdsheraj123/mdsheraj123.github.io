@@ -19,7 +19,7 @@ Mahatma Gandhi is a global citizen.
 
 It seems to me that Mahatma Gandhi instinctively knew the very long term game theory games. He took advantage of the fact that the nice strategies which do not retaliate unprovoked are the winning strategies by using it against the winners themselves. He ruined the long term game of the winners, destroying them in the process.
 
-The Britishers were in a stalemate against Gandhi due to their own assumed moral superiority.
+The brutal Britishers were in a stalemate against Gandhi due to their own assumed moral superiority.
 I do not know how effective it was, but the fact that it worked somehow is magical and what matters ultimately.
 
 Veritasium says at the end, be nice, forgiving, and don’t be a pushover.
