@@ -25,7 +25,7 @@ The logic behind this is not necessarily to win from superiority, actually it ai
 If anyone has dealt with a narcissist, then it is very defeating.
 By the way I don't believe in narcissistic people, only people acting narcissistic due to their circumstances.
 
-Negotiating with a narcissist is impossible especially from a position of weakness, if we say we want x, they think okay he wants x so I will destroy x or use the threat of destroying x as a bargaining chip to further oppress him to get what the narcissist wants.
+Negotiating with a narcissist is impossible especially from a position of weakness, if I say I want x, they think okay he wants x so I will destroy x or use the threat of destroying x as a bargaining chip to further oppress him to get what they want.
 
 I have personally experienced this and believe this to be how the Palestianians feel when they have to negotiate with the occupiers. They say it feels like dealing with a narcissist.
 
