@@ -27,7 +27,7 @@ One solution in favor of democracy is just don't watch the news and media and do
 
 I want to rethink the foundations of democracy laid out by thinkers in medieval Europe. Like the thinkers in Russia who thought up Communism as the solution to the problem of human societies, they can be wrong. The ideas should not be considered beyond questioning.
 
-Voting for our leaders regularly is the foundational idea of democracy. If this idea is so good, then what if companies have voting for the managers. Lol, nobody would work and the company would collapse. We have a mild version of this where the unions are elected and have _some_ powers but even that makes the organizations inefficient and leading to its slow death.
+Voting for our leaders regularly is the foundational idea of democracy. If this idea is so good, then what if companies have voting for the managers. Lol, nobody would work and the company would collapse. Reminds me of Europe, the origin of democracy so much. We have a mild version of this where the unions are elected and have _some_ powers but even that makes the organizations inefficient and leading to its slow death.
 
 People can't and don't know everything as they cannot dedicate their life to it and are easily swayed which is very dangerous.
 
@@ -46,7 +46,7 @@ European countries give citizenship to immigrants against the wishes of their ci
 My point is not to give the western idea of democracies a free reign and criticize other governments unfairly rather than objectively.
 
 
-I have also realized that other people cannot represent for another group of people. Only the people of the topic themselves can. Otherwise it will never be absolute and satisfactory. It might be unavoidable sometimes but it's never ideal. The most extreme example of this would be blackface employed by white people to represent blacks.
+I have also realized that other people cannot represent for another group of people. Only the people of the topic themselves can. Otherwise it will never be absolute and satisfactory. It might be unavoidable sometimes but it's never ideal. I have literally seen European people make a ten member list full of Europeans and put a black man or woman and call the list balanced and universal. The most extreme example of this would be blackface employed to represent blacks.
 
 This also means that there is no such thing as a biased media. It is just watching the media of only one side. To remove bias, we have to see the viewpoint of the other side, the best would be to physically go and talk to those people. The thought is fantastic that we can remove our bias just by thinking about it and then go on to represent other people.
 
