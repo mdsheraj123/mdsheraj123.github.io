@@ -33,13 +33,15 @@ In dealing with a narcissist, after getting burned a few times, people start hid
 
 Eventually both sides end up in a very stressful stalemate where we cannot say anything as saying anything makes things worse.
 
-Point to be noted is even the narcissist might be actually scared and just holding out to one small bargaining advantage to improve something really important to them. They do not want to give up the bargaining chip which happens to be exactly what we want.
+Point to be noted is even the narcissist might be actually scared and just holding out to one small bargaining advantage to improve something really important to them. They do not want to give up the bargaining chip but which happens to be exactly what we want.
 
 From either side, the other might be a narcissist.
 
 How to break out of this stalemate?
 
-I have discovered the answer is to expose our whole position all at once which would baffle the other side. This would also gain the other side's trust as we just exposed several of our vulnerabilities. This would empower the other side to expose their vulnerabilities too because if they were attacked, they could attack us too using all our vulnerabilities. 
+I have discovered the answer is to expose our whole position all at once which would baffle the other side. This would force the other side to come out of hiding in the trenches as it would look stupid to remain while the other side is going all in.
+
+This would also gain the other side's trust as we just exposed several of our vulnerabilities. This would empower the other side to expose their vulnerabilities too because if they were attacked, they could attack us too using all our vulnerabilities. 
 
 Now something magical happens when both sides are vulnerable. We see the other side's pain and point of view. This state of vulnerability builds trust and encourages dialogue. It helps to actually solve the problem instead of always fighting for narrow gains.
 
