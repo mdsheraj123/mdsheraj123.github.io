@@ -50,7 +50,7 @@ The right thing to do is the best thing to do. With limited knowledge, it is not
 
 Faith is that the world is inherently good which means that the truth is the best version of reality. Hence this world is a journey to seek the truth, for our best lives. Fighting each other hides the truth from all of us in our limited view.
 
-So the best strategy is to show your cards. (BTW just don't do gambling, leave the game, it's not good for us. Honesty is the best policy, the complications arise only from our own imperfections.)
+So the best strategy is to show your cards. (BTW just don't do gambling, leave the game, it's not good for us. Don't play stupid games to win stupid prizes, there is a whole world out there. Honesty is the best policy, the complications arise only from our own imperfections.)
 
 Surprisingly, show your cards is a very good way of breaking the ice and making friends, something which I use myself. Even if there is something we do not want to share, we are better off saying sorry I don't want to share that. This builds trust and makes the other side feel that we are honest and they can work with us and rely on us. Is is much better than hiding, distracting, changing the topic, or outright lying. 
 
