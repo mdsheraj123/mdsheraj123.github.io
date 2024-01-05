@@ -14,7 +14,7 @@ I really love the Chinese idiom.
 It was used by Deng Xiaoping (<a href="https://history.stackexchange.com/questions/54862/what-does-deng-xiaoping-mean-by-hide-your-capacities-bide-your-time" target="_blank">https://history.stackexchange.com/questions/54862/what-does-deng-xiaoping-mean-by-hide-your-capacities-bide-your-time</a>) and it is credited as the reason behind the silent Chinese domination of the global manufacturing industry via exports and directly leading to China becoming the largest PPP economy in the world.
 
 But I don't like playing games. I believe in showing all my cards upfront.
-Obviously except the most critical thing that we cannot live without. The hiding of the most critical thing is to account for randomness and evil. Evil is ultimately incompetence explained in one of my other blog posts <a href="https://mdsheraj123.github.io/2023/05/28/Politics.html" target="_blank">here</a>.
+Obviously except the most critical thing that we cannot live without. The hiding of the most critical thing is to account for randomness and evil. Evil is ultimately incompetence explained in one of my other blog posts <a href="https://mdsheraj123.github.io/2023/05/28/Politics.html" target="_blank">https://mdsheraj123.github.io/2023/05/28/Politics.html</a>.
 
 This prevents a lot of lose lose stalemates many times drawn out indefinitely. Sometimes it is best to just get things done with outright.
 
@@ -24,6 +24,7 @@ The logic behind this is not necessarily to win from superiority, actually it ai
 
 If anyone has dealt with a narcissist, then it is very defeating.
 By the way I don't believe in narcissistic people, only people acting narcissistic due to their circumstances.
+
 Negotiating with a narcissist is impossible especially from a position of weakness, if we say we want x, they think okay he wants x so I will destroy x or use the threat of destroying x as a bargaining chip to further oppress him to get what the narcissist wants.
 
 I have personally experienced this and believe this to be how the Palestianians feel when they have to negotiate with the occupiers. They say it feels like dealing with a narcissist.
@@ -49,4 +50,6 @@ Faith is that the world is inherently good which means that the truth is the bes
 
 So the best strategy is to show your cards. (BTW just don't do gambling, leave the game, it's not good for us. Honesty is the best policy, the complications arise only from our own imperfections.)
 
-Surprisingly, show your cards is a very good way of breaking the ice and making friends, something which I use myself. Even if there is something we do not want to share, we are better off saying sorry I don't want to share that. This builds trust and makes the other side feel that we are honest and they can work with us and rely on us rather than hiding, distracting, changing the topic, or outright lying. Even in work, a reliable employee is better than a more productive employee who is unreliable and lies. As a manager who wants to optimize his resources, and plan his cards, it is better to know the state of each person reliably. It is because even if the employee outright says I certainly can't do the work without this help, the manager can get the help or assign the work to another person; but if the person says that I am working on it and actually doing nothing, there is a state of uncertainty and there is nothing the manager can do other than asking for ETAs. At the end of the day, getting the work done is what matters.
+Surprisingly, show your cards is a very good way of breaking the ice and making friends, something which I use myself. Even if there is something we do not want to share, we are better off saying sorry I don't want to share that. This builds trust and makes the other side feel that we are honest and they can work with us and rely on us. Is is much better than hiding, distracting, changing the topic, or outright lying. 
+
+Even in work, a reliable employee is better than a more productive employee who is unreliable and lies. As a manager who wants to optimize his resources, and plan his cards, it is better to know the state of each person reliably. It is because even if the employee outright says I certainly can't do the work without this help, the manager can get the help or assign the work to another person; but if the person says that I am working on it and actually doing nothing, there is a state of uncertainty and there is nothing the manager can do other than asking for ETAs. At the end of the day, getting the work done is what matters.
