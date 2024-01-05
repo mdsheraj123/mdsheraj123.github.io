@@ -11,7 +11,7 @@ I really love the Chinese idiom.
 "韜光養晦、有所作為"
 "Keep a low profile ( or hide our capacity ) and bide your time."
 
-It is credited as the reason behind the silent Chinese domination of the global manufacturing industry via exports and directly leading to China becoming the largest PPP economy in the world.
+It was used by Deng Xiaoping and it is credited as the reason behind the silent Chinese domination of the global manufacturing industry via exports and directly leading to China becoming the largest PPP economy in the world.
 
 But I don't like playing games. I believe in showing all my cards upfront.
 Obviously except the most critical thing that we cannot live without. The hiding of the most critical thing is to account for randomness and evil. Evil is ultimately incompetence explained in one of my other blog posts <a href="https://mdsheraj123.github.io/2023/05/28/Politics.html" target="_blank">here</a>.
