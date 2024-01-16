@@ -55,3 +55,11 @@ So the best strategy is to show your cards. (BTW just don't do gambling, leave t
 Surprisingly, show your cards is a very good way of breaking the ice and making friends, something which I use myself. Even if there is something we do not want to share, we are better off saying sorry I don't want to share that. This builds trust and makes the other side feel that we are honest and they can work with us and rely on us. Is is much better than hiding, distracting, changing the topic, or outright lying. 
 
 Even in work, a reliable employee is better than a more productive employee who is unreliable and lies. As a manager who wants to optimize his resources, and plan his cards, it is better to know the state of each person reliably. It is because even if the employee outright says I certainly can't do the work without this help, the manager can get the help or assign the work to another person; but if the person says that I am working on it and actually doing nothing, there is a state of uncertainty and there is nothing the manager can do other than asking for ETAs. At the end of the day, getting the work done is what matters.
+
+
+
+Update:
+
+I have realized the most destructive strategy against the enemy. This would also be mutually destructive though. Do not engage with the enemy in any way. Total non-cooperation with no exceptions. Have nothing to do with the enemy. If there is the presence of the enemy in a group, stay away and make your own group. Actively oppose any presence of the enemy.
+
+I guess this is what even Gandhi realized.
