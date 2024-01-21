@@ -7,7 +7,7 @@ tags: []
 excerpt_separator: <!--more-->
 ---
 
-There has been a focus lately on listening to the experts which many people have realized lately is wrong.
+There has been a focus on listening to the experts which many people have realized lately is wrong.
 
 I have covered in my previous blog <a href="https://mdsheraj123.github.io/2023/10/11/History-is-written-by-the-victors.html" target="_blank">https://mdsheraj123.github.io/2023/10/11/History-is-written-by-the-victors.html</a> and <a href="https://mdsheraj123.github.io/2023/12/02/Democracy-and-the-propoganda-media-headache.html" target="_blank">https://mdsheraj123.github.io/2023/12/02/Democracy-and-the-propoganda-media-headache.html</a> that just re-reading a particular perspective does not make us wise. A totally uneducated person with his own original experiences and learning the hard way can be wise.
 
