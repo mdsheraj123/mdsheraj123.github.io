@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-	Educated != Competent
+    Educated != Competent
 hide_title: false
 tags: []
 excerpt_separator: <!--more-->
