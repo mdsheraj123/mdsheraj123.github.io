@@ -15,6 +15,7 @@ PG
 2h 10m
 *A life worth living and what should be the most esteemed virtue.*
 *Life as a great legend in our contemporary times.*
+
 # Favourite Quotes
 *“Opportunity is missed by most people because it is dressed in overalls and looks like work.”*
 
@@ -26,6 +27,12 @@ PG
 \- Albert Einstein
 
 \(If there were no crisis, we would have nothing to improve. If looking for opportunities, look for crisies.\)
+
+
+“Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end for they do so with the approval of their own conscience.”
+
+\- C.S. Lewis
+
 *
 "Surtur: You cannot stop Ragnarok. Why fight it? 
 
@@ -53,6 +60,7 @@ Thor: Because that's what heroes do."
 *“The purpose of thinking is to let the ideas die instead of us dying.”*
 
 \- Alfred North Whitehead
+
 *"Be careful what you wish for, lest it come true\!"*
 
 \- Aesop’s Fables, the world’s best\-known collection of morality tales.  
@@ -61,6 +69,7 @@ What you wish for so badly when it becomes true might be the biggest curse. The 
 *"The most dangerous creation of any society is the man who has nothing to lose."*
 
 \- James Baldwin
+
 *"A child who is not loved by the village will burn it down to feel it's warmth."*
 
 \- African proverb
@@ -74,9 +83,11 @@ Shows we can always have gratitude.
 *"Saving one life is like saving the world entire."*
 
 \- Talmud
+
 *"Expression via speech, writing and otherwise allows our thinking to become refined via exchange of thoughts."*
 
 \- Me \(Inspired by Jordan Bernt Peterson\)
+
 *“Feminism does not want to make men and women equal. It wants to make women equal to men, and there is a difference. The difference is the focus area of problem\-solving given our limited focus and resources; it's in its name.”*
 
 \- Me
@@ -87,6 +98,7 @@ It's just like propoganda, focussing on only the side which you favour's point o
 *"The Indian Caste system is regressive nepotism by higher castes to create a clique for their profession in society. It survived as it organized people closely via marriage along with their profession."*
 
 \- Me
+
 *“The reason for skin color racism in India is that typical Indian skin color can adapt based on exposure to the sun from fair to very dark. This is an easy way to perceive wealth and privilege via looks for those not needing to do manual work. Contrast this with African countries with all dark and European nations with all white populations. Even in the US with blacks and whites, skin color does not show privilege as the skin color cannot change.”*
 
 \- Me
@@ -96,6 +108,19 @@ It's just like propoganda, focussing on only the side which you favour's point o
 *“Before you embark on a journey of revenge, dig two graves.”*
 
 \- The Chinese philosopher, Confucius.
+
+*"Leadership is one better than others guy giving away his resources to the group so everyone in the group feels getting rewarded. This is even if the actual rewards are not yet there or not spread evenly. The leader gains by the overall prosperity and the goodwill towards him.
+It is different from high risk, high reward, like in buisness. Leadership simply makes sense for some people with the lowest risk greatest reward than not involving in leadership."*
+
+\- Me
+
+*"I am wrong many times about different things, people, concepts, work and that too confidently."*
+
+\- Me
+
+*"We underestimate what we can do in the long term and overestimate what we can do in the short term."*
+
+\- Several Authors
 
 # Favourite Poems
 ## Truth
@@ -115,6 +140,7 @@ Truth is the ultimate, inexhaustible natural resource.
 It’s the light in the darkness.
 
 \- By Dr. Jordan Bernt Peterson \(Rule 8: Tell the Truth, 12 Rules for Life\)
+
 ## How to Not Be a Perfectionist
 
 People are vivid
@@ -221,6 +247,7 @@ Or the faceted crystal.
 
 \- By Stephen Spender
 *A poem on growing old. [There will be a time when we are no longer potential](https://qr.ae/pGBbpy).*
+
 ## The Man He Killed
 
 Had he and I but met\
@@ -251,12 +278,7 @@ Or help to half-a-crown.
 - By Thomas Hardy
 *Anti war poem.*
 
-
-“Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end for they do so with the approval of their own conscience.”
-
-— C.S. Lewis
-
-
+# Favourite Stories
 *A short story about the Mexican Fisherman and the American Businessman*
 
 
