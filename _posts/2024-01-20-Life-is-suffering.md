@@ -26,4 +26,4 @@ The founder of Buddhism, Buddha realized that life is full of suffering and the 
 
 Well, if life is suffering, then that gives rise to the idea of a place that is not suffering, heaven. We strive for heaven to make our life of suffering worthwhile.
 
-Energy can neither be created nor be destroyed. We are like the waves of an ocean, when the wave dies, it manifests as probably a leaf moving or a turtle's hand flapping. In the same way after we die, there has to be a place where we manifest. Maybe that's heaven, maybe it's true. Nobody knows.
+It's a popular saying that we are like the waves of an ocean. Energy can neither be created nor be destroyed. So when the wave dies, it manifests as probably a leaf moving or a turtle's hand flapping. In the same way after we die, there has to be a place where we manifest. Maybe that's heaven, maybe it's true. Nobody knows.
