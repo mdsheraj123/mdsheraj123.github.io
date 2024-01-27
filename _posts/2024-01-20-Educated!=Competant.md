@@ -19,7 +19,7 @@ Many of the experts are wrong about so many things, and that too with false conf
 
 If anyone observes how these experts actually become experts one would realize that they never think of the big picture or have any idea of it. They just follow the existing conventions and work on a narrow segment their whole lives. Most of them study or work for the sake of it and enjoy their lives while talking of big things about which they have no complete understanding, personal experience, personal stake, or accountability. Years of experience does not make them wise about general stuff.
 
-I personally know people highly educated in obviously the popular western ideas and convinced beyond question by just re-reading the same perspective that they left their perfect and superior lives back home for small jobs in European countries in delusion.
+I personally know non european people highly educated in obviously the popular european ideas and convinced beyond question of its superiority by just re-reading the same perspective that they left their perfect and superior lives back home for small jobs in European countries in delusion.
 
 I want to clarify here quite clearly that Education != Competence. The best competence is by learning, with the best learning being learning the hard way.
 Education is mostly remembering others’ ideas and it is most prevalent in the arts side.
