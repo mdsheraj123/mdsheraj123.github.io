@@ -35,3 +35,15 @@ Even in Islam, there is a saying
 It is really tough to succeed in this world being straightforward honest.
 
 It's a popular saying that we are like the waves of an ocean. Energy can neither be created nor be destroyed. So when the wave dies, it manifests as probably a leaf moving or a turtle's hand flapping. In the same way after we die, there has to be a place where we manifest. Maybe that's heaven, maybe it's true. Nobody knows.
+
+
+
+Update:
+
+If I am too distressed with the world, I ask myself if given ultimate power, what would I change about the structure of the world? 
+
+The answer is nothing, nothing I could change can make it better. 
+
+I won’t add more suffering and I won’t reduce suffering because a life without suffering would make us weak, this world is not the right place for it. Suffering also has to encompass the whole range of possibility, like the distribution of the velocity of atoms in a gas. Everything is perfect the way it is.
+
+I would only make our life here better to have a better life in the grand journey of our souls. But by working myself, not by magic, otherwise the gains would not last.
