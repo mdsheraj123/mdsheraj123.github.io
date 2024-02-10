@@ -99,11 +99,13 @@ It's just like propoganda, focussing on only the side which you favour's point o
 
 \- Me
 
-*“The reason for skin color racism in India is that typical Indian skin color can adapt based on exposure to the sun from fair to very dark. This is an easy way to perceive wealth and privilege via looks for those not needing to do manual work. Contrast this with African countries with all dark and European nations with all white populations. Even in the US with blacks and whites, skin color does not show privilege as the skin color cannot change.”*
+*“The preference for white skin in India is not solely because of Europeans. The reason for skin color racism in India is that typical Indian skin color can adapt based on exposure to the sun from fair to very dark. This is an easy way to perceive wealth and privilege via looks for those not needing to do manual work. Contrast this with African countries with all dark and European nations with all white populations. Even in the US with blacks and whites, skin color does not show privilege as the skin color cannot change.”*
 
 \- Me
 
-\([https://worldpopulationreview.com/country\-rankings/most\-racist\-countries](https://worldpopulationreview.com/country-rankings/most-racist-countries) shows us that India is the most racist country in the world. Although I now feel that we all are equally racist, only some people are better at hiding it than others.\)
+Beauty standards nearly always summarize power. Very pale skin became less significant as marker of status, in the west, when pale skin went from implying you're so wealthy you don't need to work to you're so wealthy you can vacation regularly in beautiful sunny places and enjoy long hours of leisure outside the office.
+
+\- Anon Googler \(<a href="https://worldpopulationreview.com/country\-rankings/most\-racist\-countries" target="_blank">https://worldpopulationreview.com/country\-rankings/most\-racist\-countries</a> shows us that India is the most racist country in the world. Although I now feel that we all are equally racist, only some people are better at hiding it than others. This ranking itself will fail any test for biased propoganda statistics.\)
 
 *“Before you embark on a journey of revenge, dig two graves.”*
 
