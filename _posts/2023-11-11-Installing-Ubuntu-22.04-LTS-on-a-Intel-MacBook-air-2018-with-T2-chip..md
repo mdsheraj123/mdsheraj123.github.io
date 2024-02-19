@@ -17,23 +17,30 @@ Follow [https://youtu.be/KIgxEEzT9ek?feature=shared](https://youtu.be/KIgxEEzT9e
 
 **Faced issues:**
 
-1\) Suspend does not work so we need to reassign lid close action. [https://ubuntuhandbook.org/index.php/2020/05/lid\-close\-behavior\-ubuntu\-20\-04/](https://ubuntuhandbook.org/index.php/2020/05/lid-close-behavior-ubuntu-20-04/)
+1\) Suspend does not work so we need to reassign lid close action to lock screen. [https://ubuntuhandbook.org/index.php/2020/05/lid\-close\-behavior\-ubuntu\-20\-04/](https://ubuntuhandbook.org/index.php/2020/05/lid-close-behavior-ubuntu-20-04/)
+
+Also, make the laptop shut down after 20 minutes of inactivity on battery.
+
+$ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type 'shutdown'
+
+// Not necessary as the default is 1200 minutes.
+$ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-timeout 1200
 
 Open issue: [https://github.com/t2linux/T2-Ubuntu-Kernel/issues/53](https://github.com/t2linux/T2-Ubuntu-Kernel/issues/53).
+
+2\) To fix webcam, this works [https://devicetests.com/fix\-webcam\-issues\-ubuntu\-macbook\-air](https://devicetests.com/fix-webcam-issues-ubuntu-macbook-air). However, the webcam stops working again after a reboot.
 
 **Fixed issues:**
 
 
 1\) Keyboard back fixed in latest updates. The backlight can be controlled manually too.
 
-sudo apt install brightnessctl
+\# sudo apt install brightnessctl
 
-brightnessctl \-l
+\#brightnessctl \-l
 
-sudo brightnessctl \-\-device='apple::kbd\_backlight' s 32
+\#sudo brightnessctl \-\-device='apple::kbd\_backlight' s 32
 
-sudo brightnessctl \-\-device='apple::kbd\_backlight' s 0
+\#sudo brightnessctl \-\-device='apple::kbd\_backlight' s 0
 
-2\) To fix webcam, this works [https://devicetests.com/fix\-webcam\-issues\-ubuntu\-macbook\-air](https://devicetests.com/fix-webcam-issues-ubuntu-macbook-air).
-
-3\) To fix the microphone, follow [https://wiki.t2linux.org/guides/audio\-config/](https://wiki.t2linux.org/guides/audio-config/). Go to settings and change the default microphone to "MacBook Pro T2 DSP Mic" which works.
+2\) To fix the microphone, follow [https://wiki.t2linux.org/guides/audio\-config/](https://wiki.t2linux.org/guides/audio-config/). Go to settings and change the default microphone to "MacBook Pro T2 DSP Mic" which works.
