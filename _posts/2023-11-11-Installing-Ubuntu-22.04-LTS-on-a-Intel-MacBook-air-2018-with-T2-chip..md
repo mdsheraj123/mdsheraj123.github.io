@@ -24,6 +24,7 @@ Also, make the laptop shut down after 20 minutes of inactivity on battery.
 $ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type 'shutdown'
 
 // Not necessary as the default is 1200 minutes.
+
 $ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-timeout 1200
 
 Open issue: [https://github.com/t2linux/T2-Ubuntu-Kernel/issues/53](https://github.com/t2linux/T2-Ubuntu-Kernel/issues/53).
@@ -37,10 +38,10 @@ Open issue: [https://github.com/t2linux/T2-Ubuntu-Kernel/issues/53](https://gith
 
 \# sudo apt install brightnessctl
 
-\#brightnessctl \-l
+\# brightnessctl \-l
 
-\#sudo brightnessctl \-\-device='apple::kbd\_backlight' s 32
+\# sudo brightnessctl \-\-device='apple::kbd\_backlight' s 32
 
-\#sudo brightnessctl \-\-device='apple::kbd\_backlight' s 0
+\# sudo brightnessctl \-\-device='apple::kbd\_backlight' s 0
 
 2\) To fix the microphone, follow [https://wiki.t2linux.org/guides/audio\-config/](https://wiki.t2linux.org/guides/audio-config/). Go to settings and change the default microphone to "MacBook Pro T2 DSP Mic" which works.
