@@ -29,7 +29,7 @@ Democracies take good decisions usually. This is because if people are left to t
 
 This is how Democracy moves from a tyranny of the majority to an inclusive one where we, in our huge IQ realize the need for a constitution, rights to all and protection for minorities even when it does not seem like it would benefit the majority directly/in the sort run, for the betterment of all of us collectively.
 
-Democracy turns into a tyranny of the majority when we cannot use our collective intelligence due to polarization/ propoganda etc. This is what polarizing political parties like the Indian party BJP need to win elections \- polarize and exploit the majority when you can never win by collective intelligence alone due to your ideologies.
+Democracy turns into a tyranny of the majority when we cannot use our collective intelligence due to polarization/ propoganda etc. This is what polarizing political parties need to win elections \- polarize and exploit the majority when you can never win by collective intelligence alone due to your ideologies.
 
 One guiding principle to regulate social media could be to not have 
 
